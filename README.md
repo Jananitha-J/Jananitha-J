@@ -119,6 +119,12 @@ A clean, responsive task manager with persistent state via localStorage.
 </p>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jananitha-J/Jananitha-J/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jananitha-J/Jananitha-J/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jananitha-J/Jananitha-J/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ## 📫 Let's Connect
 
@@ -136,3 +142,5 @@ A clean, responsive task manager with persistent state via localStorage.
 <p align="center">⭐ <i>If something here's useful to you, a star means a lot!</i> ⭐</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6D4FAB&height=100&section=footer" width="100%"/>
+
+
